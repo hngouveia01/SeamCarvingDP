@@ -5,6 +5,7 @@ Xcode playground que apresenta como a programação dinâmica pode ser utilizada
 
 ## Example
 
+### Surfer
 Input:
 
 ![Original](example-images/surfer.jpg)
@@ -12,3 +13,13 @@ Input:
 Output:
 
 ![Carved](example-images/surfer_carved.jpg)
+
+### POM
+
+Input:
+
+![Original](example-images/clock.jpg)
+
+Output:
+
+![Carved](example-images/clock_carved.jpg)
